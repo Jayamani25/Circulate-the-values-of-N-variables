@@ -33,8 +33,7 @@ def circulate():
 ```    
 
 ## Output:
-![circulate](https://user-images.githubusercontent.com/85949888/209545543-d8a8604b-9691-4ef5-b82a-088d1dfe14b5.png)
-
+![1](https://user-images.githubusercontent.com/85949888/214784316-4be79278-a473-4cb5-a1e2-b7e423a182cd.png)
 
 ## Result:
 Circulate the n variables using function is successfully executed.
